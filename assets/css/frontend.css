@@ -1,0 +1,3 @@
+.woocommerce form .form-row select, .woocommerce-page form .form-row select .wcdeliverable_custom_checkout_field select {
+    cursor: pointer !important;
+}
